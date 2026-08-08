@@ -6,6 +6,25 @@ The application allows users to upload one or more law books or legal documents 
 
 ---
 
+# ⚖️ Law Book RAG Chatbot
+
+A Retrieval-Augmented Generation (RAG) based chatbot for interacting with law books and legal documents.
+
+## 🚀 Live Demo
+
+🔗 **[Open Law Book RAG Chatbot](https://frontendpy-dhtqcrhfxkmbuenxdk2rvx.streamlit.app/)**
+
+### ✨ What you can do
+
+- 📚 Upload law books and legal PDFs
+- 💬 Ask questions based on uploaded documents
+- 🔎 Retrieve relevant document content
+- 🤖 Generate answers using Groq
+- 📄 View source PDF and page information
+- 📝 Generate practice questions
+
+---
+
 ## 🚀 Project Overview
 
 Reading and searching through large law books can be time-consuming. This project provides an AI-powered interface for interacting with legal documents.
